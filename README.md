@@ -1,2 +1,6 @@
 # Risc-V-Simulator
-This was a project done in second year. The Team Members were:
+The Team Members of this project were:
+Ripudaman Singh
+Shivam Prasad
+Divyanshu
+Amritpal Singh
